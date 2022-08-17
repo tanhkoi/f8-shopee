@@ -32,3 +32,6 @@ html {
     display: flex;
     flex-wrap: wrap;
 }
+.pull__right {
+    float: right !important;
+}
