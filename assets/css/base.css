@@ -36,3 +36,7 @@ html {
 .pull__right {
     float: right !important;
 }
+.cancel-pointer {
+    cursor: text;
+    color: var(--white-color);
+}
