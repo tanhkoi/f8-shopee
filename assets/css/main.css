@@ -50,3 +50,21 @@
     margin: 0 4px;
     font-size: 1.8rem;
 }
+
+/* Header QR code */
+.navbar__qr {
+    height: 184px;
+    background-color: var(--white-color);
+    position: absolute;
+
+}
+
+.navbar__qr-code {
+
+}
+
+.navbar__qr-apps {
+    display: flex;
+    width: 100%;
+    
+}
